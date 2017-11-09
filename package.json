@@ -1,0 +1,16 @@
+{
+  "name": "echodroid",
+  "version": "1.0.0",
+  "description": "A service for tracking Android notifications for consumption by Alexa",
+  "author": "Stanley Ayzenberg",
+  "license": "MIT",
+  "dependencies": {
+    "basic-auth": "^1.1.0",
+    "body-parser": "^1.15.1",
+    "express": "^4.14.0",
+    "hashmap": "^2.0.6",
+    "request": "^2.72.0",
+    "util": "^0.10.3",
+    "ws": "^1.1.0"
+  }
+}
